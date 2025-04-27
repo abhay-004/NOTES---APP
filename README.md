@@ -3,11 +3,12 @@ A simple and elegant Notes Application built with HTML, CSS, and JavaScript. Eas
 
 🚀 Live Preview
 Check out the live version here:
-👉 [Click here to try the Notes App!]()
+👉 [Click here to try the Notes App!](https://notes-app-004.netlify.app/)
 
 🖼️ Screenshot
 
-![NOTES - APP Screenshot](./screenshot/notes.PNG)
+![NOTES - APP Screenshot](./screenshot/notes1.PNG)
+![NOTES - APP Screenshot](./screenshot/notes2.PNG)
 
 🛠️ Built With
 HTML5 – Markup
